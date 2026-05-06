@@ -1,0 +1,13 @@
+body {
+    background: linear-gradient( black 15%, seagreen 100%) ;
+}
+
+h1{
+    color: antiquewhite;
+}
+
+footer {
+    background: linear-gradient( seagreen 15%, pink 100%);
+    color: slateblue;
+    padding: 16px 0;
+}
