@@ -1,7 +1,22 @@
 body {
     background: linear-gradient( black 15%, seagreen 100%) ;
+    font-family: "Playfair+Display", serif;
+}
+p {
+    font-size: 25px;
+    text-align: justify;
+}
+img {
+    display: block;
+    margin: 0 auto;
+    width: 500px; 
+    height: 400px;
 }
 
+*{
+    margin: 0;
+    padding: 0;
+}
 h1{
     color: antiquewhite;
 }
@@ -10,4 +25,7 @@ footer {
     background: linear-gradient( seagreen 15%, pink 100%);
     color: slateblue;
     padding: 16px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
