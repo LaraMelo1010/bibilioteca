@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient( black 15%, seagreen 100%) ;
+    background: linear-gradient(black 15%, seagreen 100%) ;
     font-family: "Playfair+Display", serif;
 }
 p {
@@ -22,8 +22,8 @@ h1{
 }
 
 footer {
-    background: linear-gradient( seagreen 15%, pink 100%);
-    color: slateblue;
+    background: linear-gradient( seagreen 15%, slateblue 100%);
+    color: pink;
     padding: 16px 0;
     display: flex;
     justify-content: center;
